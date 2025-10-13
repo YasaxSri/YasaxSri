@@ -14,7 +14,7 @@
 ## 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css,flask,git,github,docker,firebase,mongodb,postgresql,vercel,postman,vscode,replit,npm" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,fastapi,react,nextjs,svelte,tailwind,bootstrap,html,css,flask,express,git,github,docker,firebase,mongodb,postgresql,heroku,vercel,nginx,postman,vscode,replit,linux,windows,npm" alt="Tech stack icons" />
 </p>
 
 **Current Focus:** AI + Automation + Interactive Web Apps  
