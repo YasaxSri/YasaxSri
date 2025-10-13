@@ -7,11 +7,3 @@
 - 🌍 **From:** Sri Lanka 🌴
 
 ---
-
-## ⚡ Fun Facts
-- I solve problems before they become problems  
-- Coffee + Code = Happiness ☕💻  
-- Meme enthusiast 🤓  
-- Always curious about the next big tech wave 🌊
-
----
