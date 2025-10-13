@@ -30,11 +30,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub In Action
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasaxSri&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasaxSri&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YasaxSri&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasaxSri&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasaxSri&layout=compact&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YasaxSri&theme=radical" width="80%" />
+</p>
 
 ---
 
