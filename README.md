@@ -11,15 +11,6 @@
 - 🤖 **Hobby:** Building bots, web apps & automation tools  
 
 ---
-## 🛠️ My Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,fastapi,react,nextjs,svelte,tailwind,bootstrap,html,css,git,github,docker,firebase,mongodb,postgresql,heroku,vercel,nginx,postman,npm,vscode,replit,linux,windows,pytorch,tensorflow,rabbitmq,graphql,prisma,figma,canva" alt="Tech stack icons" />
-</p>
-
-**Current Focus:** AI + Automation + Interactive Web Apps  
-
----
 ## 📊 GitHub In Action
 
 <p align="center">
