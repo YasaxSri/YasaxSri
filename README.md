@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey there, I'm YasaxSri!  
 
-<!--
-**YasaxSri/YasaxSri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 About Me
+- 🌱 **Current Learning:** Exploring Python, JS, and AI magic 🪄  
+- 💻 **Developer Focus:** Web apps, automation, and clever scripts  
+- 🎨 **Passion:** Turning ideas into clean, functional code  
+- 🌍 **From:** Sri Lanka 🌴
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Facts
+- I solve problems before they become problems  
+- Coffee + Code = Happiness ☕💻  
+- Meme enthusiast 🤓  
+- Always curious about the next big tech wave 🌊
+
+---
