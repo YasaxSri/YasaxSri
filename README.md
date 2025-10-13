@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm YasaxSri!  
+# 👋 Hey there, I'm YasasSri!  
 
 ## 🔭 About Me
 - 🌱 **Current Learning:** Exploring Python, JS, and AI magic 🪄  
