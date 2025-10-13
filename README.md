@@ -17,14 +17,14 @@
 
 ## 🛠️ My Toolbox
 
-| Language / Framework | Skill | Icon |
-|--------------------|-------|------|
-| Python             | ★★★★★ | 🐍   |
-| JavaScript / Node.js| ★★★★☆| ⚡   |
-| React / Tailwind   | ★★★★☆ | 🎨   |
-| Puppeteer / Plyr.js| ★★★★☆ | 🤖   |
-| Git / GitHub       | ★★★★★ | 🛠️   |
-| Flask / Express    | ★★★★☆ | 🌐   |
+| Language / Framework | Skill |
+|--------------------|-------|
+| Python             | ★★★★★ |
+| JavaScript / Node.js| ★★★★☆|
+| React / Tailwind   | ★★★★☆ |
+| Puppeteer / Plyr.js| ★★★★☆ |
+| Git / GitHub       | ★★★★★ 
+| Flask / Express    | ★★★★☆ |
 
 **Current Focus:** AI + Automation + Interactive Web Apps  
 
