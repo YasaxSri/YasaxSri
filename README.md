@@ -1,6 +1,7 @@
 # 👋 Hello, I'm **YasaxSri** 🚀
 
-> "I don’t just write code — I craft experiences." 🚀  
+> "I don’t just write code — I craft experiences." 🚀
+<img align="right" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" width="250" alt="Cool GIF">
 ---
 
 ## 🌱 About Me
