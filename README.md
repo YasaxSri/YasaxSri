@@ -12,7 +12,7 @@
 - 🤖 **Hobby:** Building bots, web apps & automation tools  
 
 ---
-## 📊 GitHub In Action
+## <img src="https://raw.githubusercontent.com/YasaxSri/YasaxSri/main/assets/images/qdnt7n.gif" width="30" style="vertical-align:middle;" alt="GitHub In Action emoji"> GitHub In Action
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasaxSri&show_icons=true&theme=radical&count_private=true" width="48%" />
