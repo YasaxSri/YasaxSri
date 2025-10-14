@@ -2,7 +2,7 @@
 
 ---
 
-## 🌱 About Me
+## <img src="https://files.catbox.moe/o4x9bh.gif" width="30" style="vertical-align:middle;" alt="About Me emoji"> About Me
 <img align="right" src="https://files.catbox.moe/q0ekbt.gif" width="140" alt="Cool GIF">
 
 - 👨‍💻 **Developer & Learner:** Python, JavaScript, AI, and Automation  
