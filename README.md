@@ -3,7 +3,7 @@
 ---
 
 ## 🌱 About Me
-<img align="right" src="https://files.catbox.moe/q0ekbt.gif" width="150" alt="Cool GIF">
+<img align="right" src="https://files.catbox.moe/q0ekbt.gif" width="140" alt="Cool GIF">
 
 - 👨‍💻 **Developer & Learner:** Python, JavaScript, AI, and Automation  
 - 🎨 **Passion:** Turning ideas into functional, fun, and beautiful code  
