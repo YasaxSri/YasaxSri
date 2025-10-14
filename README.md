@@ -1,4 +1,4 @@
-# <img src="https://files.catbox.moe/ytoht2.gif" width="30" style="vertical-align:middle;"> Hello, I'm **YasasSri** 🚀
+# <img src="https://files.catbox.moe/jolu3g.gif" width="50" style="vertical-align:middle;"> Hello, I'm **YasasSri** 🚀
 
 ---
 
