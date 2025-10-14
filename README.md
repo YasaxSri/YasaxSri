@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/YasaxSri/YasaxSri/main/assets/images/jolu3g.gif" width="40" style="vertical-align:middle;"> Hello, I'm **YasasSri** 🚀
+# <img src="https://raw.githubusercontent.com/YasaxSri/YasaxSri/main/assets/images/jolu3g.gif" width="40" style="vertical-align:middle;"> Hello, I'm **YasasSri** <img src="https://raw.githubusercontent.com/YasaxSri/YasaxSri/main/assets/images/u9p1bn.gif" width="40" style="vertical-align:middle;">
 
 ---
 
