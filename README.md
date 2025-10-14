@@ -1,6 +1,5 @@
 # 👋 Hello, I'm **YasaxSri** 🚀
 
-> "I don’t just write code , I craft experiences."
 ---
 
 ## 🌱 About Me
