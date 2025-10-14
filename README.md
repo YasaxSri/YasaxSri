@@ -4,7 +4,7 @@
 ---
 
 ## 🌱 About Me
-<img align="right" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" width="200" alt="Cool GIF">
+<img align="right" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" width="150" alt="Cool GIF">
 
 - 👨‍💻 **Developer & Learner:** Python, JavaScript, AI, and Automation  
 - 🎨 **Passion:** Turning ideas into functional, fun, and beautiful code  
